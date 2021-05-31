@@ -139,7 +139,7 @@ header .navbar ul li a.active::before{
 /* HOME SECTION */
 .home{
     min-height: 100vh;
-    background-image: url(Images/1616163.jpg);
+    background-image: url(1616163.jpg);
     background-size: cover;
     background-position: center;
     padding: 15px;
